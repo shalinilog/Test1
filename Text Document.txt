@@ -1,1 +1,2 @@
 New file is modified.
+This a line added.
